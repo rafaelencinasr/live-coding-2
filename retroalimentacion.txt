@@ -1,0 +1,9 @@
+Retroalimentacion recibida por parte de Estefania Ramos:
+
+1.- Clonó el repositorio de manera correcta
+2.- Exploró los archivos para poder conocerlos 
+3.- Comprobó que los archivos estuvieran correctamente vinculados mediante LiveServer 
+4.- Mediante consola realizó una serie de pruebas para comprobar su código 
+5.- Hizo muchas prubas mediante console.log 
+6.- Comentó su codigo como buena practica de programación 
+7.- Terminó el ejercicio en un 90%
